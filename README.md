@@ -40,7 +40,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)<br>
+![Tableau](https://img.shields.io/badge/-Tableau-F2C811?style=flat&logo=tableau&logoColor=white)
 
 ---
 ## 🔗 Let's Connect!
