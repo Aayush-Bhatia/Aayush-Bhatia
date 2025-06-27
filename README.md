@@ -8,6 +8,7 @@
 💼 Interned at **Newgen Software**, **BH Reels**, and **Verve Bridge**  
 🎬 President of the **Theatre Society – VSET** | 🧠 Core Member of **CODE, E-Cell VSET**  
 🏆 Finalist at **Microsoft Ideathon** | 🏅 Smart India Hackathon (twice) | 🥇 DTU Vihaan 6.0 – 4th Runner-Up
+
 ---
 
 ## 🧠 Skills & Tools
